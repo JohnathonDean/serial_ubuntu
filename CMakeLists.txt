@@ -75,6 +75,6 @@ install(TARGETS ${PROJECT_NAME}
 
 # Install headers
 install(FILES include/serial/serial.h include/serial/v8stdint.h
-  DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/serial)
+  DESTINATION include/serial)
 
 
