@@ -1,0 +1,7 @@
+/home/johnathon/repositories/serial_ubuntu/build/CMakeFiles/install/strip.dir
+/home/johnathon/repositories/serial_ubuntu/build/CMakeFiles/install/local.dir
+/home/johnathon/repositories/serial_ubuntu/build/CMakeFiles/serial.dir
+/home/johnathon/repositories/serial_ubuntu/build/CMakeFiles/rebuild_cache.dir
+/home/johnathon/repositories/serial_ubuntu/build/CMakeFiles/edit_cache.dir
+/home/johnathon/repositories/serial_ubuntu/build/CMakeFiles/install.dir
+/home/johnathon/repositories/serial_ubuntu/build/CMakeFiles/list_install_components.dir
